@@ -1,0 +1,10 @@
+{
+	"name": "generator-myvue",
+	"version": "0.1.0",
+	"main": "index.js",
+	"author": "mason wang",
+	"license": "MIT",
+	"dependencies": {
+		"yeoman-generator": "^4.0.1"
+	}
+}
